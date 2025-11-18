@@ -154,13 +154,7 @@ Mirjalili, S., Mirjalili, S. M., & Lewis, A. (2014). Grey wolf optimizer. Advanc
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
 ## ⭐ Show your support
 
